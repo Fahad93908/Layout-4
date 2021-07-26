@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(77, 173, 173);
+    color: white;
+    text-align: center;
+}
+.maindiv {
+    overflow: hidden;
+}
+
+.left {
+    background: rgb(77, 173, 173);
+    color: white;
+    text-align: center;
+    width: 60%;
+    height: 400px;
+    float: left;
+    margin-top: 20px;
+}
+
+
+
+.heroImg {
+    background:rgb(77, 173, 173);
+    color: white;
+    float: left;
+    width: 37%;
+    margin-left: 26px;
+    height: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+.callAction {
+    background:rgb(77, 173, 173);
+    color: white;
+    float: left;
+    width: 37%;
+    margin-left: 26px;
+    height: 90px;
+    text-align: center;
+    margin-top: 10px;
+}
+.Features{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(77, 173, 173);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.moreCopy {
+    background: rgb(77, 173, 173);
+    color: white;
+    width: 50%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+.MoreCall {
+    overflow: hidden;
+}
+
+.callTo {
+    background: rgb(77, 173, 173);
+    color: white;
+    width: 48%;
+    height: 100px;
+    float: right;
+    margin-right: 2px;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(77, 173, 173);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
